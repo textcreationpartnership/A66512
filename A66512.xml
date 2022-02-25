@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True copy of a paper written by Capt. Tho. Walcott in Newgate, after his condemnation, and delivered to his son, immediately before his execution</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66512</idno>
+            <idno type="STC">Wing W285</idno>
+            <idno type="STC">ESTC R2015</idno>
+            <idno type="EEBO-CITATION">12369395</idno>
+            <idno type="OCLC">ocm 12369395</idno>
+            <idno type="VID">60526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60526)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 903:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True copy of a paper written by Capt. Tho. Walcott in Newgate, after his condemnation, and delivered to his son, immediately before his execution</title>
+                  <author>Walcot, Thomas, d. 1683.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Timothy Goodwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walcot, Thomas, d. 1683.</term>
+               <term>Treason --  England.</term>
+               <term>Broadsides.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:60526:1" rendition="simple:additions"/>
+            <head>A True Copy of a Paper written by Capt. <hi>Tho. Walcott</hi> in <hi>Newgate,</hi> after his Condemnation, and delivered to his Son, immediately before his Execution.</head>
+            <p>AS to my Religion, I Believe in Three Perſons, and but one God, <hi>(Viz.)</hi> Father, Son, and Holy-Ghoſt, I Expect and Hope to be Saved by the Merits and Righteouſneſs of Jeſus Chriſt, without the Hope of any Ad<g ref="char:EOLhyphen"/>vantage by any Merits or Righteouſneſs of my own; and I Believe that the Scriptures of the Old and New-Teſtament, are and ought to be the Rule of my Faith, and their Direction the Method of my Worſhip of God, that no Council, Conclave of Cardinals, or Power upon Earth whatſoever, hath any Authority to ſet up the Precepts of Men and their Traditions, and to make them of equal Validity and Authority with the Scripture, and Word of God. That they were not writ according to the Will of Man, but Holy Men of God writ them as they were Inſpired by the Holy-Ghoſt. I Believe that as Chriſt is the Head of his Church, ſo he is their Law-Giver: It was not becauſe the <hi>Jews</hi> rejected Chriſt and Crucified him, that he rejected them, but becauſe they rejected the Goſpel, as appears by the Three Thouſand that God by <hi>Peter</hi> Converted at one Sermon, who were pricked in their Hearts, convinced in their Conſciences of their great Guilt in Crucifying the Lord of Life, inſomuch that they Cry out, Men and Brethren what ſhall we do, and that daily they were added to the Church. Chriſt ſaith, If he had not Come and Spoken to them, they had not had Sin. It is a dreadful thing to reject the Goſpel, by reaſon thereof the <hi>Jews</hi> ſaw not the th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs that belong'd to their Peace, untill they were hid from their Eyes. And it's as dreadful a thing to Continue in a Sinful Courſe of Life; untill the Lord wholly withdraw his Spirit, who hath ſaid that his Spirit ſhall not always ſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e with Man, and that it is not every one that Cryeth Lord! Lord! ſhall Enter into the Kingdom of Heaven.</p>
+            <p>Then I d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Leave to ſpeak a word as to my Death and the Occaſion of it, the wages of Sin is Death; had not <hi>Adam</hi> Sinned, he and his Poſterity had no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dyed. It is alſo ſaid to be the King of Terrors. But it is only ſo to thoſe that ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Terr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved with a Tetrifying Conſcience, that have the Arrows of the Almig<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y ſti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king in them, powerful Convictions of their Evils, but ſee no Hopes, nor have any Aſſurance of Pardon. Chriſt takes away the Terror and Horror of Conſcience for the Guilt of Sin, from thoſe that are his; he hath overcome Death for them, and will overcome it in them. And to thoſe whom the Sting of Death is taken away by Chriſt, 'tis no difficult task to Dye, for they are with St. <hi>Paul,</hi> able to ſay, To Live is Chriſt, but to Dye is Gain, they have not only got unto Chriſt, but into Chriſt, and ſo come to have Com<g ref="char:EOLhyphen"/>munion and Fellowſhip with the Father, and the Son. Except we be in Chriſt as the Branch is in the Vine, we are not Chriſtians indeed, nor are we able to Believe a Right, we may get the Notions of the Promiſei of the Goſpel into our Heads, but witout the Spirit of God applyes them to our Hearts, we can<g ref="char:EOLhyphen"/>not Believe aright: And this was the Caſe of poor <hi>Francis Spira.</hi> Chriſt ſaith, he that Believeth in him, though he were Dead, yet ſhall he Live. And that whoſoever Liveth and Believeth im him, he ſhall never Dye. So that Death is no ſuch Terrifying Thing to thoſe that Chriſt will make it Eaſie to, but ever remember Faith is the Gift of God.</p>
+            <p>Then as to the preſent Occaſion of my Death, I cannot blame the Judges, and Jury, nor the King's Counſel, I can only blame ſome Men that were much Guiltier than I, who Combin'd together to Swear me out of my Life, thereby to Save their own; and that they might do it effectually, Contrive an Untruth, Affirming that I made it a Scruple of Conſcience to have a Hand in Killing of the King, or to Imbrue my Hands in his Blood; But was ſo Generous as to Undertake the Charging of the Guards, whilſt another did it, and to the end another might do it. Now I Appeal to all that know me, how probable this
+<pb n="2" facs="tcp:60526:2"/>is, add whether they believe me ſo very a Sot, that I ſhould not underſtand, that Engaging with the Guards to prevent their Preſerving the King, were the ſame thing as if I had Killed Himſelf. But however, by their Swearing againſt me, they have Secured their own Lives and Eſtates, ſo that my Blood is the Price of theirs.</p>
+            <p>I Confeſs I was ſo Unfortunate and Unhappy, as to be Envited by Collonel <hi>John Rumſey,</hi> one of the Witneſſes againſt me, to ſome Meetings, were ſome things were Diſcourſed in order to the Aſſerting our Liberties and Properties as <hi>Engliſh</hi> Men, which were lookt upon to be Violated and Invaded. But it was he and Mr. <hi>Weſt</hi> were the great Promoters of thoſe Meetings, and had them before I camn into <hi>England:</hi> Mt. <hi>Weſt</hi> when I lay Sick of the Gout, and could not go to themt would frequently Viſit me, and ſtill his Diſcourſe would be of Lopping the Two Sparks, meaning the King and the Duke, and propoſe that by all means they ſhould be Killed at a Play-Houſe, and then he ſaid they would Dye in their Calling. He bought Arms to do it with, without any Direction, Know<g ref="char:EOLhyphen"/>ledae or Privity of mine. He was moſt impatiently Eager of having it done, but more eſpecially at a Play-Houſe. I never ſaw the Arms, nor the Men that were to do it, though they ſaid they had Fifty Men in a readineſs ro that end, I told them the Killing of the King would carry ſuch a blemiſh and ſtain with it, as would deſcend to Poſterity. That I had Eight Children. That I was not willing they ſhould be blemiſht with it, and withal, That I was Confident, who<g ref="char:EOLhyphen"/>ever did it, the Duke of <hi>Monmouth</hi> would Puniſh them for it, if it were but to Vindicate himſelf from having any hand in it. And now I deſire to forgive all the World, and that from the very bottom of my Heart. even Mr. <hi>Tho. Shepheard</hi> that Betrayed me, and the Gentlemen that were Witneſſes againſt me, but withal do moſt earneſtly deſire there may be ſome Remarks ſet upon them, and that it may be obſerved whether their End is Peace, and that they Dye the Common Death of all Men. For Perjury is certainly a very great and crying Sin, not that I ſay they were Perjured in every thing, nor do I believe Mr. <hi>Shepheard</hi> intended what he hath done, when he Envited Mr. <hi>Ferguſon</hi> out of <hi>Holland,</hi> who poſſibly might have waid there untill now, had not he importun'd him to come into <hi>England,</hi> in order to his being Engaged and Concerned in the Work which he Tranſacted in <hi>London,</hi> and was chiefly about ever ſince his return, and that by Mr. <hi>Shepherd</hi>'s Approbation, Aſſiſtance, Contrivance and Allowance. Hee likewiſe daclared in the preſence of ſeveral, that he did not know of any one of the <hi>Engliſh</hi> in <hi>Ireland,</hi> Concerned in any Plot or Deſign againſt the King.</p>
+            <p>In the laſt place I deſire Leave to give my Friends one word of Advice, which hath been often given me, though I have not been ſo happy as to take, and that is never to hear any man ſpeak that that yoe would not have repeated, for there is no Faith in Man, to Man whatever there is in Man, to God, either the Tears of a Wife, or the Concern of a Family of little helpleſs Children, or ſomething or other will tempt and provoke Men to betray one another. When God hath a Work to do, he will not want Inſtruments, for he can make them, neither will he want a way to do it in. And now I moſt heartily deſire, and my Prayers to the Almighty is, That this may be the laſt Bloud ſpilt upon this Account.</p>
+            <p>I know Acts of Indulgenee and Mercy in the King would make him ſit much eaſier in his Government, and cauſe his Subject to ſit much eaſier under it. And that the Lord may incline his Heart to Mercy, ought to be the Prayer of every good Man, I preſume moſt men know what hath happen'd, and what hath been the Occaſion of our preſent Calamities, what the Provocations of one hand were, or the Neceſſities and Sufferings of the other, I will not intermeddle with, re<g ref="char:EOLhyphen"/>ſolving to uſe my utmoſt endeavour to make my Peace and Reconciliation with my God, that 'tis impoſſible for me to make with Men; And to make it my hearty Prayer to that Great God, before whom I helieve I ſhall in a little time appear, that H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will ſtanch, ſtanch Lord this Iſſue of Blood, and find out ſome other way to Preſerve theſe Kingdoms in Unity and Peace, to the Honour and Glory of his Great Name, and to the Eternal Comfort of his poor People. <hi>Amen, Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Timothy Goodwin,</hi> at the <hi>Maiden-head</hi> againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleet-Street.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
